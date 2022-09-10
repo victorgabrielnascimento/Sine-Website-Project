@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container2 {
+    height: 100vh;
+    width: 100%;
+    background-image: url(files/fundoestatico.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+    background-image: url(files/fundo.gif);
+    background-size: cover;
+    background-position: center;
+    position: center;
+}
+.navbar {
+    width: 88%;
+    margin: auto;
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 140px;
+    cursor: pointer;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 15px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: #ff0000;
+    font-size: 15px;
+}
+
+.content {
+    width: 100%;
+    position: absolute;
+    top: 30%;
+}
+
+.left-col {
+    margin-left: 6%;
+}
+
+.left-col h1 {
+    font-size: 90px;
+    color: #fff;
+    line-height: 110px;
+    float: left;
+}
+
+.right-col {
+    float: right;
+    margin-right: 6%;
+    margin-top: 120px;
+    display: flex;
+    align-items: center;
+}
+
+#icon {
+    width: 80px;
+    cursor: pointer;
+    margin-top: -180px;
+}
+
+.abtus {
+    font-size: 90px;
+    color: #fff;
+    line-height: 110px;
+    float: left;
+}
+
+.im {
+    font-size: 13px;
+    color: #fff;
+    line-height: 30px;
+    float: left;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-top: 100px;
+}
+
+.donation {
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: 150px;
+    width: 40%;
+}
+
+.th, td, tr {
+  background-color: #ffffff;
+  border-color: #ff0000;
+}
+
+.center {
+    margin-left: auto;
+    max-width: 3000px;
+    margin-right: 90px;
+    margin-top: -140px;
+ }
+
+.hcontato {
+    text-align: center;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+}
+
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #000000;
+    border: solid 1px #ffffff;
+  }
+  
+#panel {
+    padding: 25px;
+    display: none;
+  }

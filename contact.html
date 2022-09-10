@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Contato:</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script> 
+$(document).ready(function(){
+  $("#flip").click(function(){
+    $("#panel").slideDown("slow");
+  });
+});
+</script>
+</head>
+<body>
+    <div class="container">
+        <div class="navbar">
+            <img src="files/logosine2.png" class="logo">
+            <ul>
+                <li><a style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif" href="index.html">Inicio</a></li>
+                <li><a style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif" href="sobrenos.html">Sobre Nós</a></li>
+                <li><a style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif" href="playlis.html">Lista Das Musícas</a></li>
+                <li><a style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif" href="contact.html">Contato & Indicações</a/li>
+                <li><a style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif" href="dinheirinhos.html">Doações</a></li>
+            </ul>
+        </div>
+
+        <div class=hcontato>
+            <h1 style="font-family: monospace;"><div id="flip">Contato para Indicações</div></h1><br>
+            <div id="panel">
+                <a href="mailto:contato@email.com">Clique e envie sua sugestão via e-mail</a>
+
+                <h2></h2><a href="tel:+5541999999999">Clique e envie sua sugestão por whatsapp</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
