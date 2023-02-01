@@ -25,7 +25,7 @@
  <h2> OPEN WITH LIVE SERVER </h2> 
  <br>
  
- <h1> Pronto, agora é só testar o site, pretendo atualizar o site e emplementar mais funcionalidades, em caso de bug ou ideia mande um request</h1>
+ <h4> Pronto, agora é só testar o site, pretendo atualizar o site e emplementar mais funcionalidades, em caso de bug ou ideia mande um request</h1>
  
  ## 🐱‍👤 Gostou? me siga no -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
  ## 📚Veja mais no meu repositório -> [[Repositories]](https://github.com/victorgabrielnascimento?tab=repositories)
