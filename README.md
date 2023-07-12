@@ -29,7 +29,10 @@
    <h2>Open the project file at VSCode</h2>
    <br>
 
-   <p>Now all you need is execute the program, click with the right click at index.html an open with live server!</p>
+   <p>Now all you need is execute the website, click with the right click at index.html an open with live server!</p>
 
 ![image](https://github.com/victorgabrielnascimento/First-Website/assets/105366808/823b5806-f177-4130-8ba8-98db46f0cbbd)
 
+ ## 🐱‍👤 Do you liked? please fallow me at -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
+ ## 🌟 Please support me starring this project repositorie 🌟
+ ## 📚 See more projects that I developed-> [[Repositories]](https://github.com/victorgabrielnascimento?tab=repositories)
