@@ -1,31 +1,35 @@
-### Olá Dev
+### Hello Dev!
 
 <br>
 
-## Seja bem vindo ao meu projeto de mp3 web player!
-
-
-<p>Supondo que você já leu a descrição do repositório, na linha 18 é onde se encontram as instruções para que possa rodar o APP!</p>
-<br>
-<p>Mas caso não tenha lido, aqui vai um breve resumo, este projeto foi desenvolvido no ano de 2022 na diciplina de Desenvolvimento Web no meu curso de Engenharia de Software, ele basicamente é um site/blog que tem uma comunidade exclusiva de um denominado genero musical, essa comunidade pode realizar doações para manter o site de pé, a mesma recomenda as musicas que serão adicionadas ao player, através de uma votação (onde quanto mais membros da comunidade recomendarem a música, ela será adicionada ao mp3 player).
+## Welcome to my mp3 web player project!
 <br>
 
-##  Pré Requisitos
- - Antes de iniciar o projeto, você vai precisar das seguintes ferramentas: 
+<p>This project was developed in the year 2022 in Web Development subject at my Software Engineering course, it's basically a website / blog that has an exclusive drill community, this community can make donations to keep the site standing , it recommends the songs that will be added to the player, through a vote (where the more members of the community recommend the song, it will be added to the mp3 player).
+<br>
+ 
+##  Prerequisites
+ - Before start the website, you will need the fallow tools: 
     - ✔️ [VsCode](https://code.visualstudio.com/download);
-    - ✔️ [Live Server] (extensão do VsCode)
+    - ✔️ [Live Server] (VsCode Extension);
  
-## 📄 Instruções
- <br>
- <h2> Após abrir o arquivo no VsCode: </h2> 
+## 📄 Instructions:
 
- <h4>~ clique com o botão direito no arquivo index.html e clique ~</h4>
+-Create a fork to your rep, or download the file and open it in your vscode
+
+ <h3>To fork click here:</h3>
+ 
+  ![fork](https://github.com/victorgabrielnascimento/TextScanner/assets/105366808/dad949c9-3e0a-40b0-a4bd-361f969abd4d)
+
+  <h3>To download click here:</h3>
+
+![down](https://github.com/victorgabrielnascimento/TextScanner/assets/105366808/45d4211f-dc59-4e12-a205-7a64fa1e3816)
+
  <br>
- 
- <h2> OPEN WITH LIVE SERVER </h2> 
- <br>
- 
- <h4> Pronto, agora é só testar o site, pretendo atualizar o site e emplementar mais funcionalidades, em caso de bug ou ideia mande um request</h1>
- 
- ## 🐱‍👤 Gostou? me siga no -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
- ## 📚Veja mais no meu repositório -> [[Repositories]](https://github.com/victorgabrielnascimento?tab=repositories)
+   <h2>Open the project file at VSCode</h2>
+   <br>
+
+   <p>Now all you need is execute the program, click with the right click at index.html an open with live server!</p>
+
+![image](https://github.com/victorgabrielnascimento/First-Website/assets/105366808/823b5806-f177-4130-8ba8-98db46f0cbbd)
+
